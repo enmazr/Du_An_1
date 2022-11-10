@@ -11,6 +11,7 @@ public class Du_An_1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        klunou
     }
     
 }
